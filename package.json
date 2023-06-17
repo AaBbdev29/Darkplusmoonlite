@@ -3,7 +3,7 @@
   "publisher": "moondevaa",
   "displayName": "Dark Plus Moon lite",
   "description": "dark theme with attarctive colores moon like",
-  "version": "0.0.1",
+  "version": "0.1.1",
   "engines": {
     "vscode": "^1.78.0"
   },
@@ -12,7 +12,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/AaBbdev29/moon-plus-lite-3"
+    "url": "https://github.com/AaBbdev29/Darkplusmoonlite"
   },
   "icon": "moon.jpg", 
   "theme": "dark",
@@ -20,9 +20,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Dark Plus navy blue",
+        "label": "Dark Plus Moon light",
         "uiTheme": "vs-dark",
-        "path": "./themes/Dark Plus navy blue-color-theme.json"
+        "path": "./themes/dark-plus-moon-lite-color-theme.json"
       }
     ]
   }

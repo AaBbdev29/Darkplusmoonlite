@@ -1,16 +1,43 @@
-# Darkplusmoonlite README
+<div align="center">
 
-## Working with Markdown
+# Dark Plus Moon Light Theme
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+A dark theme with attratice colores for Visual Studio Code.
+</div>
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+# Installation
 
-## For more information
+1. Open the **Extensions** sidebar in VS Code. `View → Extensions`
+2. Search for `dark plus moon light`, choose "dark plus moon light" by moondevaa
+3. Click **Install** to install it
+4. Navigate to File > Preferences > Color Theme > ""dark plus moon light"")
+#enjoy coding,.
+## change Log
+fixed most bugs ..
+###
+  <div align="center">
+    <hr />
+    <ul>
+    <li> <a href="https://github.com/AaBbdev29">Github</a> </li>
+    <li> <a href="https://twitter.com/imaginative_dev">Twitter</a></li>
+    </ul>
+  </div>
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+# Screenshots
 
-**Enjoy!**
+<div align="center">
+    <h2>React js</h2>
+    <img src="https://raw.githubusercontent.com/AaBbdev29/Darkplusmoonlite/Darkplusmoonlite-0.09/screenshots/reactjs.jpg" alt="Moon in React"/>
+</div>
+###########
+ <div align="center">
+    <h2>Css</h2>
+    <img src="https://raw.githubusercontent.com/AaBbdev29/Darkplusmoonlite/Darkplusmoonlite-0.09/screenshots/css.jpg" alt="Moon in css"/>
+</div>
+############
+ <br/>
+<div align="center">
+    <h2>Python</h2>
+    <img src="https://raw.githubusercontent.com/AaBbdev29/Darkplusmoonlite/Darkplusmoonlite-0.09/screenshots/python.jpg" alt="Moon in python"/>
+</div>
+
