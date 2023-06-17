@@ -11,9 +11,12 @@ A dark theme with attratice colores for Visual Studio Code.
 2. Search for `dark plus moon light`, choose "dark plus moon light" by moondevaa
 3. Click **Install** to install it
 4. Navigate to File > Preferences > Color Theme > ""dark plus moon light"")
-
-#Github - twitter
+#enjoy coding,.
+## change Log
+fixed most bugs ..
+###
   <div align="center">
+    <hr />
     <ul>
     <li> <a href="https://github.com/AaBbdev29">Github</a> </li>
     <li> <a href="https://twitter.com/imaginative_dev">Twitter</a></li>
@@ -24,17 +27,17 @@ A dark theme with attratice colores for Visual Studio Code.
 
 <div align="center">
     <h2>React js</h2>
-    <img src="https://raw.githubusercontent.com/AaBbdev29/Darkplusmoonlite/main/reactjs.jpg" alt="Moon"/>
+    <img src="https://raw.githubusercontent.com/AaBbdev29/Darkplusmoonlite/Darkplusmoonlite-0.09/screenshots/reactjs.jpg" alt="Moon in React"/>
 </div>
 ###########
  <div align="center">
     <h2>Css</h2>
-    <img src="https://raw.githubusercontent.com/AaBbdev29/Darkplusmoonlite/main/reactjs.jpg" alt="Moon"/>
+    <img src="https://raw.githubusercontent.com/AaBbdev29/Darkplusmoonlite/Darkplusmoonlite-0.09/screenshots/css.jpg" alt="Moon in css"/>
 </div>
 ############
  <br/>
 <div align="center">
     <h2>Python</h2>
-    <img src="https://raw.githubusercontent.com/AaBbdev29/Darkplusmoonlite/main/reactjs.jpg" alt="Moon"/>
+    <img src="https://raw.githubusercontent.com/AaBbdev29/Darkplusmoonlite/Darkplusmoonlite-0.09/screenshots/python.jpg" alt="Moon in python"/>
 </div>
 
