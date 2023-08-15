@@ -200,7 +200,7 @@
       "name": "js/ts variable.other.constant",
       "scope": "variable.other.constant",
       "settings": {
-        "foreground": "#cf88e0"
+        "foreground": "#f455ff"
       }
     },
     {
