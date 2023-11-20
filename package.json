@@ -3,7 +3,7 @@
   "publisher": "moondevaa",
   "displayName": "Dark Plus Moon lite",
   "description": "dark theme with attarctive colores moon like",
-  "version": "0.5.6",
+  "version": "0.5.7",
   "engines": {
     "vscode": "^1.78.0"
   },
