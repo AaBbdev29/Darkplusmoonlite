@@ -116,7 +116,7 @@
       "name": "Text",
       "scope": "variable.parameter.function",
       "settings": {
-        "foreground": "#b6d6e0"
+        "foreground": "#e0b6c8"
       }
     },
     {
@@ -165,7 +165,7 @@
       "name": "c++ block",
       "scope": "punctuation.section.block.begin.bracket.curly.cpp,punctuation.section.block.end.bracket.curly.cpp,punctuation.terminator.statement.c,punctuation.section.block.begin.bracket.curly.c,punctuation.section.block.end.bracket.curly.c,punctuation.section.parens.begin.bracket.round.c,punctuation.section.parens.end.bracket.round.c,punctuation.section.parameters.begin.bracket.round.c,punctuation.section.parameters.end.bracket.round.c",
       "settings": {
-        "foreground": "#b6d6e0"
+        "foreground": "#e0b6c8"
       }
     },
     {
@@ -301,7 +301,7 @@
       "name": "css comma",
       "scope": "punctuation.separator.list.comma.css",
       "settings": {
-        "foreground": "#b6d6e0"
+        "foreground": "#e0b6c8"
       }
     },
     {
@@ -1206,7 +1206,7 @@
       "name": "parameter function js/ts",
       "scope": "function.parameter",
       "settings": {
-        "foreground": "#b6d6e0"
+        "foreground": "#e0b6c8"
       }
     },
     {
@@ -1912,7 +1912,7 @@
     "input.placeholderForeground": "#a6a6a6",
     "textLink.foreground": "#3794ff",
     "editor.background": "#171b22",
-    "editor.foreground": "#b6d6e0",
+    "editor.foreground": "#e0b6c8",
     "editorLineNumber.foreground": "#8a8a89",
     "editorCursor.foreground": "#aeafad",
     "editorCursor.background": "#000000fb",
