@@ -1,9 +1,9 @@
 {
   "name": "darkplusmoonlite",
   "publisher": "moondevaa",
-  "displayName": "Dark Plus Moon lite",
+  "displayName": "Dark Plus Moon Light",
   "description": "dark theme with attarctive colores moon like",
-  "version": "0.6.0",
+  "version": "0.6.1",
   "engines": {
     "vscode": "^1.78.0"
   },
