@@ -778,7 +778,7 @@
       "name": "Tags",
       "scope": "entity.name.tag",
       "settings": {
-        "foreground": "#b458cb"
+        "foreground": "#4f95ea"
       }
     },
     {
@@ -800,7 +800,7 @@
       "name": "Attribute class",
       "scope": "entity.other.attribute-name.class.css",
       "settings": {
-        "fontStyle": "normal",
+        "fontStyle": "italic bold",
         "foreground": "#279EFF"
       }
     },
@@ -1862,7 +1862,7 @@
     "sideBarTitle.foreground": "#bbbbbb",
     "list.inactiveSelectionBackground": "#5040a6",
     "list.inactiveSelectionForeground": "#e4ddd8",
-    "list.hoverBackground": "#1e183e",
+    "list.hoverBackground": "#2c235a",
     "list.hoverForeground": "#fef6f0",
     "list.activeSelectionBackground": "#5040a6",
     "list.activeSelectionForeground": "#ffffff",
