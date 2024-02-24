@@ -3,12 +3,15 @@
   "publisher": "moondevaa",
   "displayName": "Dark Plus Moon light",
   "description": "dark theme with attarctive colores moon like",
-  "version": "0.6.4",
+  "version": "0.6.5",
   "engines": {
     "vscode": "^1.78.0"
   },
   "categories": [
     "Themes"
+  ],
+  "keywords": [
+    "moon","moonlight","darkblue","dark","blue","colorful","attarctive"
   ],
   "repository": {
     "type": "git",
