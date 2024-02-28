@@ -3,7 +3,7 @@
   "publisher": "moondevaa",
   "displayName": "Dark Plus Moon light",
   "description": "dark theme with attarctive colores moon like",
-  "version": "0.7.0",
+  "version": "0.7.1",
   "engines": {
     "vscode": "^1.78.0"
   },
@@ -11,7 +11,15 @@
     "Themes"
   ],
   "keywords": [
-    "moon","moonlight","darkblue","dark","blue","colorful","attarctive"
+    "moon","moonlight","darkblue","dark","blue","colorful","attarctive","zenburn","webstrome","winter","wind","vibe","universe","ultra",
+    "ultimate","ubuntu","linux","turbo","true","false","tomorrow","terminal","syntax","sweet","super","sun","Saturn","style","star","krita",
+    "soft","space","smooth","smile","laught","sky","simple","easy","silver","semantic","seti","sakura","ruby","relax","rainbow","rainglow",
+    "radial","radical","pro","professional","palette","plastic","palennight","pack","orginal","omini","official","obsidian","nice",
+    "nemo","neo","new","folder","nano","modern","minimal","mega","max","material","mangic","low","laser","just","jelly","infinity"
+    ,"indigo","hot","hope","high","hack","galaxy","full","firefly","fantastic","extra","elegant","design","deep","puss","dream",
+    "cyber","custom","performance","cool","cold","another","app","auora","base","beautiful","pretty","pinky","better","good","well",
+    "lovely","box","2077","music","tune","snow","kde","gnome","breeze","Fluent-round","sunrise","story","layan","lightning",
+    "flight","dexy","sunset","jasper","amy","Marwaita","kimi","big-sur","orchis","vortex"
   ],
   "repository": {
     "type": "git",
