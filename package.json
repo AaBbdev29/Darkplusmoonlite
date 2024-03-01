@@ -3,7 +3,7 @@
   "publisher": "moondevaa",
   "displayName": "Dark Plus Moon light",
   "description": "dark theme with attarctive colores moon like",
-  "version": "0.7.1",
+  "version": "0.7.2",
   "engines": {
     "vscode": "^1.78.0"
   },
@@ -19,7 +19,7 @@
     ,"indigo","hot","hope","high","hack","galaxy","full","firefly","fantastic","extra","elegant","design","deep","puss","dream",
     "cyber","custom","performance","cool","cold","another","app","auora","base","beautiful","pretty","pinky","better","good","well",
     "lovely","box","2077","music","tune","snow","kde","gnome","breeze","Fluent-round","sunrise","story","layan","lightning",
-    "flight","dexy","sunset","jasper","amy","Marwaita","kimi","big-sur","orchis","vortex"
+    "flight","dexy","sunset","jasper","amy","Marwaita","kimi","big-sur","orchis","vortex","shades","shadow"
   ],
   "repository": {
     "type": "git",
