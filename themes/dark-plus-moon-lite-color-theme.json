@@ -1999,7 +1999,7 @@
     "tab.border": "#252526",
     "tab.activeBackground": "#171b22",
     "tab.activeBorder": "#cb2174",
-    "tab.activeBorderTop": "#131312",
+    "tab.activeBorderTop": "#00001c",
     "tab.inactiveBackground": "#1f242b",
     "tab.inactiveForeground": "#b8bab9",
     "tab.hoverBackground": "#141911",
