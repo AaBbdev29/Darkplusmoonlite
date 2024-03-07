@@ -3,7 +3,7 @@
   "publisher": "moondevaa",
   "displayName": "Dark Plus Moon light",
   "description": "dark theme with attarctive colores moon like",
-  "version": "0.7.6",
+  "version": "0.7.7",
   "engines": {
     "vscode": "^1.78.0"
   },
@@ -28,7 +28,10 @@
     "lucy","zone","fira","kali","search","song","xp","wild","life","cat","c++","c","c#","Live","docker","git","ai","language","debug"
     ,"java","icon","tag","go","beautify","dart","graph","xml","rest","rust","view","project","native","tools","todo","editor",
     "import","format","client","book","blade","babel","data","work","monokaie","sass","compile","profile","function","method",
-    "sql","hint","doc","image","node","snap","shell","cloud","support","case","time","browser","gpt","key","duck","outpot"
+    "sql","hint","doc","image","node","snap","shell","cloud","support","case","time","browser","gpt","key","duck","output"
+,"learn","sumit","ded","free","camp","owl","eva","file","great","teacher","next","ever","miler","ball","zen","burn","karma",
+"tweak","fox","fire","familiar","min","max","natural","extra","x","bed","cobalt","matrix","just","touch","aramok","minor","mine","over",
+"monokai","old","young","hope","coder","soft","hard","eye","friendly","fun","full","office","edge","mirage","notepad","pride","Refined"
   ],
   "repository": {
     "type": "git",
