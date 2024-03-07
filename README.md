@@ -43,6 +43,11 @@ fixed most bugs ..
 </div>
 ############
 <div align="center">
+    <h2>Rust</h2>
+    <img src="https://github.com/AaBbdev29/Darkplusmoonlite/blob/main/screenshots/rust.png?raw=true" alt="Moon in Rust"/>
+</div>
+############
+<div align="center">
     <h2>CSS</h2>
     <img src="https://raw.githubusercontent.com/AaBbdev29/Darkplusmoonlite/main/css.png" alt="Moon in Css"/>
 </div>
@@ -50,4 +55,9 @@ fixed most bugs ..
 <div align="center">
     <h2>html</h2>
     <img src="https://raw.githubusercontent.com/AaBbdev29/Darkplusmoonlite/main/html.png" alt="Moon in html"/>
+</div>
+############
+<div align="center">
+    <h2>JSON</h2>
+    <img src="https://github.com/AaBbdev29/Darkplusmoonlite/blob/main/screenshots/json1.png?raw=true" alt="Moon in JSON"/>
 </div>
