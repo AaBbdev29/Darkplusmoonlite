@@ -3,7 +3,7 @@
   "publisher": "moondevaa",
   "displayName": "Dark Plus Moon light",
   "description": "dark theme with attarctive colores moon like",
-  "version": "0.7.8",
+  "version": "0.7.9",
   "engines": {
     "vscode": "^1.78.0"
   },
@@ -36,6 +36,9 @@
 "broad","well","reasonable","likable","clever","tactful","helpful","imaginative",
 "brilliant","orginal","smart","read","bright","efficint","resource","alert","witty","grateful",
 "flexibility","bold"
+,"google","team","nero","trend","book","pass","top","direct","input","world","enhance","discord","access","bit","sdk","stacks","build",
+"process","create","content","face","x","pad","log","in","my","play","store","thunder","paint","mind","desktop","the","brain","feature",
+"sync","hand","convenient","talk","u","i","object","swift","Open","source","pot","Virtual","drop","Blender","vlc","7","keep","win","amp"
   ],
   "repository": {
     "type": "git",
