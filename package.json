@@ -3,7 +3,7 @@
   "publisher": "moondevaa",
   "displayName": "Dark Plus Moon light",
   "description": "dark theme with attarctive colores moon like",
-  "version": "0.8.2",
+  "version": "0.8.3",
   "engines": {
     "vscode": "^1.78.0"
   },
@@ -44,7 +44,9 @@
 "liquid","alien","fairy","wings","vintage","line","vincent","furry","moody","Kryptonite","speed","tab","awesome","act",
 "background","cubes","steel","marvel","vert","aesthetic","rose","donuts","ayu","azure","au","bearded","bun","catppuccin",
 "celestial","copilot","doki","duotone","eclipse","gray","grey","haze","halcyon","highlight","horizon","iceberg","operator",
-"os","workbench","abbey","ash","eal","Davy","dim","Iridium","jet"
+"os","workbench","abbey","ash","eal","Davy","dim","Iridium","jet","barn","street","lane","tower","Maroon","Brick","Desire","Vermilion",
+"Hibiscus","Ferrari","Sangria","Mahogany","Crimson","Salmon","Tomato","Brick","Legacy","Reflection","Cardinal","Ajax","Airbnb","Angel",
+"Almost","Auburn","Cosmos","Cinnabar","Falu","Flame","folly","Wuzzy","fuzzy","Lust","mit"
   ],
   "repository": {
     "type": "git",
